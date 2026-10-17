@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "name": "CodeVault Mobile",
+      "description": "Aplicativo acadêmico para cadastrar e acompanhar projetos de programação, com catálogo público e área autenticada.",
+      "languages": ["Dart"],
+      "technologies": ["Flutter", "Material 3"],
+      "status": "inDevelopment",
+      "ownerId": "u1"
+    },
+    {
+      "id": "p2",
+      "name": "TaskFlow API",
+      "description": "API REST para gerenciamento de tarefas com autenticação, filtros e relatórios de produtividade.",
+      "languages": ["TypeScript"],
+      "technologies": ["Node.js", "Express", "PostgreSQL"],
+      "status": "completed",
+      "ownerId": "u2"
+    },
+    {
+      "id": "p3",
+      "name": "PyNotes",
+      "description": "Editor de notas simples com suporte a markdown e organização por tags, escrito em Python.",
+      "languages": ["Python"],
+      "technologies": ["Tkinter", "SQLite"],
+      "status": "completed",
+      "ownerId": "u3"
+    },
+    {
+      "id": "p4",
+      "name": "Portfólio Web",
+      "description": "Site pessoal responsivo para apresentar projetos, artigos e formas de contato.",
+      "languages": ["HTML", "CSS", "JavaScript"],
+      "technologies": ["Vite", "Netlify"],
+      "status": "planning",
+      "ownerId": "u1"
+    },
+    {
+      "id": "p5",
+      "name": "Jogo da Vida em C",
+      "description": "Implementação do autômato celular de Conway no terminal, com carregamento de padrões pré-definidos.",
+      "languages": ["C"],
+      "technologies": ["Makefile", "Ncurses"],
+      "status": "paused",
+      "ownerId": "u2"
+    },
+    {
+      "id": "p6",
+      "name": "Dashboard de Dados",
+      "description": "Painel interativo para visualização de dados abertos, com gráficos e filtros dinâmicos.",
+      "languages": ["Python", "JavaScript"],
+      "technologies": ["Pandas", "Plotly", "D3.js"],
+      "status": "inDevelopment",
+      "ownerId": "u3"
+    }
+  ]
+}

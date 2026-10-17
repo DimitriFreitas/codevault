@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Ana Souza",
+      "username": "ana.souza",
+      "password": "ana123"
+    },
+    {
+      "id": "u2",
+      "name": "Bruno Lima",
+      "username": "bruno.lima",
+      "password": "bruno123"
+    },
+    {
+      "id": "u3",
+      "name": "Carla Mendes",
+      "username": "carla.mendes",
+      "password": "carla123"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "comments": [
+    {
+      "id": "c1",
+      "projectId": "p1",
+      "authorId": "u2",
+      "content": "Gostei da organização das telas. Vai adicionar filtro por status?",
+      "createdAt": "2026-09-02T14:30:00Z"
+    },
+    {
+      "id": "c2",
+      "projectId": "p1",
+      "authorId": "u3",
+      "content": "Ótima ideia para a disciplina. O catálogo público ficou bem claro.",
+      "createdAt": "2026-09-03T09:15:00Z"
+    },
+    {
+      "id": "c3",
+      "projectId": "p2",
+      "authorId": "u1",
+      "content": "A documentação da API está muito completa. Parabéns!",
+      "createdAt": "2026-08-21T18:05:00Z"
+    },
+    {
+      "id": "c4",
+      "projectId": "p3",
+      "authorId": "u1",
+      "content": "O suporte a markdown ficou excelente.",
+      "createdAt": "2026-07-30T11:40:00Z"
+    },
+    {
+      "id": "c5",
+      "projectId": "p5",
+      "authorId": "u3",
+      "content": "Boa escolha usar ncurses. Pretende portar para WebAssembly?",
+      "createdAt": "2026-06-11T20:20:00Z"
+    }
+  ]
+}

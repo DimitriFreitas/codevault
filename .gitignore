@@ -58,3 +58,4 @@ app.*.map.json
 /.windsurfrules
 /.github/copilot-instructions.md
 /.opencode/
+/docs/
